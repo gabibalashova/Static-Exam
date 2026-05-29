@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Static\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52E52BD0-174E-4583-BD7D-377E0F120C55}|Geometry\\Geometry.csproj|c:\\users\\1212-1\\documents\\gabriela b. 9a\\static\\geometry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52E52BD0-174E-4583-BD7D-377E0F120C55}|Geometry\\Geometry.csproj|solutionrelative:geometry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E52BD0-174E-4583-BD7D-377E0F120C55}|Geometry\\Geometry.csproj|c:\\users\\1212-1\\documents\\gabriela b. 9a\\static\\geometry\\geometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52E52BD0-174E-4583-BD7D-377E0F120C55}|Geometry\\Geometry.csproj|solutionrelative:geometry\\geometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC783969-66AB-41BD-A100-54C8D5F4131A}|Zad1\\Zad1.csproj|c:\\users\\1212-1\\documents\\gabriela b. 9a\\static\\zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC783969-66AB-41BD-A100-54C8D5F4131A}|Zad1\\Zad1.csproj|solutionrelative:zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC783969-66AB-41BD-A100-54C8D5F4131A}|Zad1\\Zad1.csproj|c:\\users\\1212-1\\documents\\gabriela b. 9a\\static\\zad1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC783969-66AB-41BD-A100-54C8D5F4131A}|Zad1\\Zad1.csproj|solutionrelative:zad1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Geometry.cs",
+              "DocumentMoniker": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Static\\Geometry\\Geometry.cs",
+              "RelativeDocumentMoniker": "Geometry\\Geometry.cs",
+              "ToolTip": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Static\\Geometry\\Geometry.cs",
+              "RelativeToolTip": "Geometry\\Geometry.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T06:11:06.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Static\\Geometry\\Program.cs",
+              "RelativeDocumentMoniker": "Geometry\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Static\\Geometry\\Program.cs",
+              "RelativeToolTip": "Geometry\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T06:10:44.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Static\\Zad1\\Person.cs",
+              "RelativeDocumentMoniker": "Zad1\\Person.cs",
+              "ToolTip": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Static\\Zad1\\Person.cs",
+              "RelativeToolTip": "Zad1\\Person.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T05:51:57.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Static\\Zad1\\Program.cs",
+              "RelativeDocumentMoniker": "Zad1\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Static\\Zad1\\Program.cs",
+              "RelativeToolTip": "Zad1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T05:51:27.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

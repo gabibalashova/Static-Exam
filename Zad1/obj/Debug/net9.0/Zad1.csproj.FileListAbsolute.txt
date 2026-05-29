@@ -1,0 +1,14 @@
+C:\Users\1212-1\Documents\Gabriela B. 9A\Static\Zad1\bin\Debug\net9.0\Zad1.exe
+C:\Users\1212-1\Documents\Gabriela B. 9A\Static\Zad1\bin\Debug\net9.0\Zad1.deps.json
+C:\Users\1212-1\Documents\Gabriela B. 9A\Static\Zad1\bin\Debug\net9.0\Zad1.runtimeconfig.json
+C:\Users\1212-1\Documents\Gabriela B. 9A\Static\Zad1\bin\Debug\net9.0\Zad1.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\Static\Zad1\bin\Debug\net9.0\Zad1.pdb
+C:\Users\1212-1\Documents\Gabriela B. 9A\Static\Zad1\obj\Debug\net9.0\Zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-1\Documents\Gabriela B. 9A\Static\Zad1\obj\Debug\net9.0\Zad1.AssemblyInfoInputs.cache
+C:\Users\1212-1\Documents\Gabriela B. 9A\Static\Zad1\obj\Debug\net9.0\Zad1.AssemblyInfo.cs
+C:\Users\1212-1\Documents\Gabriela B. 9A\Static\Zad1\obj\Debug\net9.0\Zad1.csproj.CoreCompileInputs.cache
+C:\Users\1212-1\Documents\Gabriela B. 9A\Static\Zad1\obj\Debug\net9.0\Zad1.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\Static\Zad1\obj\Debug\net9.0\refint\Zad1.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\Static\Zad1\obj\Debug\net9.0\Zad1.pdb
+C:\Users\1212-1\Documents\Gabriela B. 9A\Static\Zad1\obj\Debug\net9.0\Zad1.genruntimeconfig.cache
+C:\Users\1212-1\Documents\Gabriela B. 9A\Static\Zad1\obj\Debug\net9.0\ref\Zad1.dll
