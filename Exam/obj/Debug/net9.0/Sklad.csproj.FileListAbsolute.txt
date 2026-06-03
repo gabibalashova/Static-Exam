@@ -1,0 +1,14 @@
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Exam\bin\Debug\net9.0\Sklad.exe
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Exam\bin\Debug\net9.0\Sklad.deps.json
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Exam\bin\Debug\net9.0\Sklad.runtimeconfig.json
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Exam\bin\Debug\net9.0\Sklad.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Exam\bin\Debug\net9.0\Sklad.pdb
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Exam\obj\Debug\net9.0\Sklad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Exam\obj\Debug\net9.0\Sklad.AssemblyInfoInputs.cache
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Exam\obj\Debug\net9.0\Sklad.AssemblyInfo.cs
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Exam\obj\Debug\net9.0\Sklad.csproj.CoreCompileInputs.cache
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Exam\obj\Debug\net9.0\Sklad.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Exam\obj\Debug\net9.0\refint\Sklad.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Exam\obj\Debug\net9.0\Sklad.pdb
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Exam\obj\Debug\net9.0\Sklad.genruntimeconfig.cache
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Exam\obj\Debug\net9.0\ref\Sklad.dll
