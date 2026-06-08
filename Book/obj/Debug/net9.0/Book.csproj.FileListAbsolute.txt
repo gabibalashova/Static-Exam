@@ -12,3 +12,4 @@ C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Book\obj\Debug\net9.0\refint\Book.
 C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Book\obj\Debug\net9.0\Book.pdb
 C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Book\obj\Debug\net9.0\Book.genruntimeconfig.cache
 C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Book\obj\Debug\net9.0\ref\Book.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exam\Book\obj\Debug\net9.0\Book.sourcelink.json

@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Book\\Class1.cs",
               "ToolTip": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Exam\\Book\\Class1.cs",
               "RelativeToolTip": "Book\\Class1.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAQwC0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAxwDYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T06:37:00.274Z",
               "IsPinned": true,
@@ -51,10 +51,6 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
@@ -62,7 +58,7 @@
               "RelativeDocumentMoniker": "Book\\Program.cs",
               "ToolTip": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Exam\\Book\\Program.cs",
               "RelativeToolTip": "Book\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T06:36:47.613Z",
               "EditorCaption": ""
